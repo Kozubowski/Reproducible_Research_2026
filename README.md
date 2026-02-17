@@ -42,7 +42,7 @@ A fully reproducible research project, hosted on GitHub, demonstrating your unde
 
 ### Project
 - 28.03.2026 - please send an email with names of group members.
-- 18.04.2026 - invite me to GitHub repository or send link to your public repository.
+- 18.04.2026 - invite me to GitHub repository or send a link to your public repository.
 - 06.05.2026 - please send an email with specified project topic.
 - 13.06.2026 - no more updates may be made to the project repository.
 
@@ -52,7 +52,7 @@ A fully reproducible research project, hosted on GitHub, demonstrating your unde
 
 ## AI policy
 
-It is allowed to use LLMs to support coding and writing However there are some rules:
+It is allowed to use LLMs to support coding and writing. However there are some rules:
 1. AI usage must be clearly disclosed (scope should be defined).
 2. Please provide model used and version.
 3. Use AI in ways that promote best practices.
