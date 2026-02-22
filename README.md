@@ -62,6 +62,6 @@ It is allowed to use LLMs to support coding and writing. However there are some 
 
 ## Course materials 
 
-- 2026-02-17: [Introduction and rules]()
+- 2026-02-17: [Introduction and rules](presentations/RR_2026_1.pdf)
 
 
