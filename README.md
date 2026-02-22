@@ -23,9 +23,10 @@ Many materials and rules come from last year’s materials prepared by [Wojciech
 
 A fully reproducible research project, hosted on GitHub, demonstrating your understanding of the course concepts.
 
-1. project stored in a repository from the start (visible history of well-described contributions from all team members who collaborate) (10 pp.)
-2. code and results with appropriate documentation (e.g. Markdown) appropriate for full reproducibility (including software version, etc.) (10 pp.)
-3. code in a clean and user-friendly format (10 pp.)
+1. project stored in a repository from the start (visible history of well-described contributions from all team members who collaborate) (7.5 pp.)
+2. code and results with appropriate documentation (e.g. Markdown) appropriate for full reproducibility (7.5 pp.)
+3. code in a clean and user-friendly format (7.5 pp.)
+4. reproducible environment with Docker (including Dockerfile/docker-compose.yaml and image deployed to Docker Hub) (7.5 pp.)
 
 
 
