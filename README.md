@@ -7,17 +7,28 @@ Many materials and rules come from last year’s materials prepared by [Wojciech
 
 
 ## Table of Contents
+- [Software prerequisites](#software-prerequisites)
 - [Course rules](#course-rules)
 - [Deadlines](#deadlines)
 - [AI policy](#ai-policy)
 - [Course materials](#course-materials)
 
 
+## Software prerequisites
+To fully participate in the classes, please install the following tools:
+- Git (please use Git via Git Bash on Windows)
+- Python
+- Visual Studio Code
+- For future classes: Docker Desktop ([Windows users will need WSL](https://docs.docker.com/desktop/setup/install/windows-install/))
+- and create GitHub account
+
 
 ## Course rules 
 1. **Activity** (50 pts.):
     - DataCamp two tracks: [Git Fundamentals](https://app.datacamp.com/learn/skill-tracks/git-fundamentals), [GitHub Foundations](https://app.datacamp.com/learn/skill-tracks/github-foundations) and two courses ([Introduction to Docker](https://app.datacamp.com/learn/courses/introduction-to-docker) and [Intermediate Docker](https://app.datacamp.com/learn/courses/intermediate-docker))
 2. **Final project** (30 pts.) + **Presentation** (20 pts.)
+
+To pass the course, you must obtain at least 50% of the points in each component.
 
 ### Final Project (30 pts.) [[1]](https://hackmd.io/@WHardy/RR2025#/)
 
