@@ -82,3 +82,9 @@ It is allowed to use LLMs to support coding and writing. However there are some 
 - 2026-03-03:
     - [Git 1 (Wojciech Hardy's presentation)](https://hackmd.io/@WHardy/RR25-git2#/)
     - [Commits](https://hackmd.io/@jan123/ryMEpZj_We#/)
+
+
+- 2026-03-10
+    - [GitHub Exercises](https://hackmd.io/@jan123/B1HTYp9Ybe)
+    - [GitHub (Wojciech Hardy's presentation)](https://hackmd.io/@WHardy/RR25-git3#/)
+
