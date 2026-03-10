@@ -70,6 +70,11 @@ It is allowed to use LLMs to support coding and writing. However there are some 
 3. Use AI in ways that promote best practices.
 4. Add annotations for other sources, including for externally sourced code snippets.
 
+## Git visualization tutorials
+
+1. [visualizing-git](https://git-school.github.io/visualizing-git/)
+2. [Branching Game](https://learngitbranching.js.org/?locale=pl)
+
 
 ## Course materials 
 
@@ -81,7 +86,7 @@ It is allowed to use LLMs to support coding and writing. However there are some 
 
 - 2026-03-03:
     - [Git 1 (Wojciech Hardy's presentation)](https://hackmd.io/@WHardy/RR25-git2#/)
-    - [Commits](https://hackmd.io/@jan123/ryMEpZj_We#/)
+    - [Commits](https://hackmd.io/@jan123/ryMEpZj_We)
 
 
 - 2026-03-10
