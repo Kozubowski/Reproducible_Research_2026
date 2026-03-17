@@ -80,16 +80,20 @@ It is allowed to use LLMs to support coding and writing. However there are some 
 
 - 2026-02-17: [Introduction and rules](presentations/RR_2026_1.pdf)
 
-- 2026-02-24: 
+- 2026-02-24 
     - [Git 1 (Wojciech Hardy's presentation)](https://hackmd.io/@WHardy/RR25-git1#/32/1)
     - [git with VSC](https://hackmd.io/@jan123/HJmdZXc_bg#/)
 
-- 2026-03-03:
+- 2026-03-03
     - [Git 1 (Wojciech Hardy's presentation)](https://hackmd.io/@WHardy/RR25-git2#/)
     - [Commits](https://hackmd.io/@jan123/ryMEpZj_We)
 
 
 - 2026-03-10
+    - [Branches](https://hackmd.io/@jan123/HJDv0pE5Wg#/)
+
+
+- 2026-03-17
     - [GitHub Exercises](https://hackmd.io/@jan123/B1HTYp9Ybe)
     - [GitHub (Wojciech Hardy's presentation)](https://hackmd.io/@WHardy/RR25-git3#/)
 
