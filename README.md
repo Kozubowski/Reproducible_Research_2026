@@ -99,3 +99,4 @@ It is allowed to use LLMs to support coding and writing. However there are some 
 
 - 2026-03-31: [Literate Programming](https://hackmd.io/@jan123/S1bIkKusbg)
 
+- 2026-05-05: [Reproducible Environment](https://hackmd.io/@jan123/Hk3dv5FObx)
